@@ -1,4 +1,4 @@
-import { addnewProduct } from '../controllers/controller';
+import { addnewProduct } from '../controllers/controllers';
 
 const routes = (app) => {
   app
